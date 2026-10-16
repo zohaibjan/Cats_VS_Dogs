@@ -13,7 +13,7 @@ dogs-vs-cats\train
 dogs-vs-cats\test1
 ```
 
-4. Review the data-preparation flag. If the processed dataset is already built, set `REBUILD = False` as appropriate.
+4. Review the data-preparation flag. If the processed dataset is already built, set `REBUILD_DATA = False` as appropriate.
 5. Run `python mainFile.py`.
 
 ## Scope
